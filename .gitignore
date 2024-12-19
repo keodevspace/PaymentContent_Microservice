@@ -1,0 +1,54 @@
+# .NET
+bin/
+obj/
+out/
+
+# User-specific files
+.vs/
+.idea/
+.vscode/
+.github/
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET Core
+wwwroot/
+
+# Docker files
+.docker/
+
+# JetBrains Rider
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-specific files for Visual Studio
+.vs2019/
+.vs2017/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msp
+*.vscode/
+
+# User-specific files for Rider
+.idea/
+
+# Azure App Service
+app_data/
+
+# Secret files
+secrets.json
+
+# EF Core migrations folder
+Migrations/
+
+# Log files
+logs/
